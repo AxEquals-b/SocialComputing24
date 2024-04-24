@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.log
+data/votes.json
+data/members.json
+data/cosponsors.json
